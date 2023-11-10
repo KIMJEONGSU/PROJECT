@@ -165,3 +165,8 @@
 | seller_state | 판매자 주 |
 </div>
 </details>
+
+### 파이프라인
+![Untitled (4)](https://github.com/KIMJEONGSU/PROJECT/assets/23291338/ec9e5de3-311e-45d3-95a5-b9526cb1f199)
+- `AWS RDS` : EC2 안에 PostgreSQL을 설치해서 사용할 수도 있지만 RDS는 스샷 생성이나 복제본 생성이 가능하다. 데이터베이스의 관리와 안정성을 높여준다는 측면에서 RDS는 추가적인 보안 설정이 가능하다.
+- `Tableau` : 다양한 데이터 소스와 연결하여 데이터를 통합 및 분석이 가능하고 다양한 시각화 가능. 또한, 대규모 데이터 처리에 적합하기 때문.
