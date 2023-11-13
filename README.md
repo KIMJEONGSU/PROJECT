@@ -6,10 +6,7 @@
 2023.08.14 ~ 2023.09.08
 
 ### 기술 스택
-- SQL: 데이터 가공 및 추출
-- Python: pandas와 plotly를 활용한 데이터 분석 및 시각화
-- AWS RDS: 클라우드 데이터 베이스 생성
-- Tableau: 계산식, 매개변수, 동작 등의 기능을 활용하여 대시보드 제작
+```SQL``` ```Python``` ```AWS RDS``` ```Tableau```
 
 ### 데이터 소개
 [Marketing Funnel by Olist](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist/versions/2?resource=download)
